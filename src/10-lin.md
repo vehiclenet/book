@@ -1,0 +1,5 @@
+# LIN
+
+```rust
+unimplemented!()
+```

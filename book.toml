@@ -3,3 +3,6 @@ title = "Vehicle Networks"
 description = "Practical wisdom for vehicle networks."
 authors = ["Dylan Walker Brown"]
 language = "en"
+
+[output.html]
+git-repository-url = "https://github.com/vehiclenet/book"
